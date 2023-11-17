@@ -30,6 +30,14 @@ object AndroidEventConfig {
             emoji = "🚀",
             imageUrl = "favori fotoğrafınızın url'i"
         ),
+        val participants = listOf(
+        Participant(
+            profileImageUrl = "https://hizliresim.com/hol9q0l",
+            name = "Semih",
+            surname = "Çay",
+            emoji = "🦁",
+            imageUrl = "https://images.app.goo.gl/Yprdh8kMsnmtr94U8"
+        ),
         // Participant 1
         // Participant 2
         // Participant 3
